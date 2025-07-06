@@ -7,6 +7,6 @@ document.getElementById("closePopup").addEventListener("click", function() {
 });
 
 document.getElementById("logout").addEventListener("click", function() {
-    window.location.href = "index.html"; // Redirect to main page
+    window.location.href = "../index.html"; // Redirect to main page
 });
 
