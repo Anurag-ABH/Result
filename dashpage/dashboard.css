@@ -128,7 +128,7 @@ body {
 .iframe-container {
     width: 1100px;
     height: 600px;
-    overflow: hidden;
+    overflow-wrap: normal;
 }
 iframe {
     width: 100%;
